@@ -1,3 +1,3 @@
-My first GitHub thing
+My first GitHub thingie
 :coffee:
 :pizza:
